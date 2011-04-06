@@ -1,0 +1,5 @@
+:Description:
+Originally written out of boredom and as a joke, this will take any string input and write out many, many divs that are aligned and colored to give the appearance of the "fixedsys" font in windows. Useful for obfuscation of an e-mail address? This script is horribly inefficient for displaying text, but it is funny.
+
+:Example:
+http://shawnsilva.com
