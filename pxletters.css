@@ -1,0 +1,21 @@
+﻿.lettercontainer {
+	width: 8px;
+	float: left;
+}
+.letterrowcontainer {
+	width: 8px;
+}
+.letterpxwhite {
+	width: 1px;
+	height: 1px;
+	float: left;
+}
+.letterpxblack {
+	width: 1px;
+	height: 1px;
+	float: left;
+	background-color: #000000;
+}
+.linecontainer {
+	width: 752px;
+}
