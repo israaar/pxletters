@@ -1,7 +1,7 @@
 /*
 *	pxletters.js
 *	Version: 0.5
-*	By: Shawn Silva (shawn@jatgam.com)
+*	By: Shawn Silva (shawn at jatgam dot com)
 *	Created: 5/27/08
 *	Modified: 5/30/08
 *	Description: Originally written out of boredom and as a joke, this will take any string input

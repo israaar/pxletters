@@ -2,7 +2,7 @@
 #
 #	pxletters.py
 #	Version: 0.5
-#	By: Shawn Silva (shawn@jatgam.com)
+#	By: Shawn Silva (shawn at jatgam dot com)
 #	Created: 2/3/09
 #	Modified: 2/3/09
 #	Description: Originally written out of boredom and as a joke, this will take any string input
