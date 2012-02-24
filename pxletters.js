@@ -212,7 +212,7 @@ function strToScreen(){
 			lowO();
 			break;
 			}
-			case "P": {
+			case "p": {
 			lowP();
 			break;
 			}
